@@ -1,0 +1,2 @@
+# jbi
+Java Build Image
